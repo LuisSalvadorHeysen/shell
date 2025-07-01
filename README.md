@@ -151,10 +151,31 @@ Tests cover:
 - No support for background processes (`&`)
 - No support for environment variables beyond basic usage
 
+## Educational Purpose
+
+This project was created as part of CS144 coursework at the University of Chicago to learn fundamental concepts in:
+
+- **System Calls**: Understanding and implementing core Unix system calls like `fork()`, `exec()`, `wait()`, `open()`, `close()`, `dup2()`, `chdir()`, `getcwd()`
+- **Computer Architecture**: Learning how processes are created, managed, and communicate with the operating system
+- **Process Management**: Understanding parent-child process relationships, process IDs, and process lifecycle
+- **File Descriptors**: Managing file I/O, redirection, and file descriptor inheritance
+- **Memory Management**: Dynamic memory allocation, proper cleanup, and avoiding memory leaks
+- **System Programming**: Writing low-level code that interfaces directly with the operating system kernel
+
+## Learning Outcomes
+
+Through this project, I gained hands-on experience with:
+- Process creation and management using `fork()` and `waitpid()`
+- Command execution using `execvp()` family of functions
+- File I/O operations and redirection
+- Signal handling and error management
+- Understanding the relationship between user space and kernel space
+- Debugging system-level programs
+
 ## License
 
 This project was created as part of CS144 coursework at the University of Chicago.
 
 ## Author
 
-Created as a learning project to understand Unix shell internals and system programming concepts. 
+Created as an educational project to understand Unix shell internals, system programming concepts, and computer architecture fundamentals. 
