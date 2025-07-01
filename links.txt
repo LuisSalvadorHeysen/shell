@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/55743496/difference-between-exec-execvp-execl-execv
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=157356
+
+https://www.reddit.com/r/learnprogramming/comments/tzoghx/cc_whats_the_point_of_types_like_uid_t_and_pid_t/
+
+https://www.tutorialspoint.com/unix_system_calls/waitpid.htm
+
+https://cplusplus.com/reference/cstring/strtok/
+
+https://stackoverflow.com/questions/2329640/how-to-exit-a-child-process-exit-vs-exit
+
+https://stackoverflow.com/questions/9406475/why-is-strtok-changing-its-input-like-this
+
+https://man7.org/linux/man-pages/man2/open.2.html

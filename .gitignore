@@ -1,0 +1,44 @@
+# Build artifacts
+myshell
+*.o
+*.out
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Test output files
+test-scripts/*.stdout
+test-scripts/*.stderr
+test-scripts/*_rd_*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Core dumps
+core
+core.*
+
+# Compiled Python files
+*.pyc
+__pycache__/ 
